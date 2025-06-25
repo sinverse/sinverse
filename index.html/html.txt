@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🜃 The Real Gate to SinVerse</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #e0e0e0;
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #ff003c;
+    }
+    a {
+      color: #8be9fd;
+      text-decoration: none;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .locked {
+      opacity: 0.4;
+    }
+    .sigil {
+      font-size: 2rem;
+      text-align: center;
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="sigil">⸸</div>
+  <h1>🜃 The Real Gate to SinVerse</h1>
+  <p><em>Not all who enter return the same.</em></p>
+
+  <div class="section">
+    <h2>🩸 Join the Order</h2>
+    <p>Initiation form (DM your answers to The Architect):</p>
+    <ul>
+      <li>Name / Alias</li>
+      <li>Codename</li>
+      <li>Email</li>
+      <li>What do you seek from the SinVerse?</li>
+    </ul>
+    <p>✅ I accept the SinVerse code.</p>
+  </div>
+
+  <div class="section">
+    <h2>🎴 Codex Scrolls</h2>
+    <p><a href="https://drive.google.com/file/d/1CDcT3X0Gv_3vlBkUgClbl6dEt6Mf6dIi/view?usp=sharing" target="_blank">📥 Download Scroll I – The Illusion of Reality</a></p>
+    <p class="locked">🔒 Scroll II – Coming Soon</p>
+    <p class="locked">🔒 Scroll III – Coming Soon</p>
+  </div>
+
+  <div class="section">
+    <h2>🎧 Ritual Audio (Coming Soon)</h2>
+    <p class="locked">Whispers, chants, and audio rituals are being prepared.</p>
+  </div>
+
+  <div class="section">
+    <h2>📡 Signals to Follow</h2>
+    <p>Instagram: @sinverse.order</p>
+    <p>X (Twitter): @redlightcode</p>
+  </div>
+
+  <div class="section">
+    <h2>🕯 Contact The Architect</h2>
+    <p>📞 +91 96967 17775</p>
+  </div>
+</body>
+</html>
